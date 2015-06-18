@@ -112,7 +112,7 @@ A great resources for lots of neat background images.
 
 An easy lookup tool for HTML entities.
 
-### [HTTP Status List](http://httpstatus.es/)]()
+### [HTTP Status List](http://httpstatus.es/)
 
 Reference list for HTTP status codes.
 
