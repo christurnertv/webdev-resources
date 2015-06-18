@@ -1,5 +1,19 @@
 # Awesome Free Resources for Web Developers
 
+## Table of Contents
+
+- [Analytics](#analytics)
+- [API Testing](#api-testing)
+- [Design Related](#design-related)
+- [Domains and Hosting](#domains-and-hosting)
+- [Font Related](#font-related)
+- [General](#general)
+- [Image Related](#image-related)
+- [Reference Lists](#reference-lists)
+- [Site Testing](#site-testing)
+- [Team Tools](#team-tools)
+- [UI Frameworks](#ui-frameworks)
+
 ## Analytics
 
 ### [Google Analytics](https://www.google.com/analytics)
